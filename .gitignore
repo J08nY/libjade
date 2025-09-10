@@ -3,3 +3,6 @@
 libjade-*
 .vscode
 result
+
+# Pygments generated files
+*_highlighted.html
